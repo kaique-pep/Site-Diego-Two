@@ -37,3 +37,6 @@ import './pages/produto/EditProdutoPage.js';
 import './pages/usuario/ListUsuarioPage.js';
 import './pages/usuario/CadUsuarioPage.js';
 import './pages/usuario/EditUsuarioPage.js';
+import './pages/usuario/EditUsuarioPage.js';
+import './pages/mesa/Mesa.js';
+
