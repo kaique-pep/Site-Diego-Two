@@ -15,7 +15,7 @@ class MesaPage extends HTMLElement {
                 <form id="form-mesa">
                     <ion-list>
 
-                        <!-- ID -->
+                    
                         <ion-item>
                             <ion-input 
                                 type="number" 
@@ -27,7 +27,7 @@ class MesaPage extends HTMLElement {
                             </ion-input>
                         </ion-item>
 
-                        <!-- Descrição -->
+                       
                         <ion-item>
                             <ion-input 
                                 type="text" 
@@ -37,7 +37,7 @@ class MesaPage extends HTMLElement {
                             </ion-input>
                         </ion-item>
 
-                        <!-- Quantidade de Cadeiras -->
+                        
                         <ion-item>
                             <ion-input 
                                 type="number" 
